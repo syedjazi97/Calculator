@@ -1,0 +1,40 @@
+h1{
+    align-items: center;
+    text-align: center;
+}
+.main{
+    border: 5px solid #b16a84;
+    border-radius: 50px;
+    width: 300px;
+    height: 400px;
+    margin: 80px auto;
+}
+
+.main-result{
+    height: 110px;
+}
+
+.input-class{
+    margin-top: 40px;
+    width: 290px;
+    border: 0px none;
+    padding: 10px 0px 20px 10px;
+    font-size: 40px;
+}
+
+
+.btn{
+    border: 2px solid green;
+    border-radius: 50%;
+    width: 65px;
+    height: 50px;
+    margin: 3px;
+    color:white;
+    font-size: large;
+    background-color: #535f7b;
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+}
